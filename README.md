@@ -241,4 +241,4 @@ This repository serves as the official landing page for Allok MOV Converter. The
 **Get the most recent version of Allok MOV Converter today!**
 
 ---
-**Last updated:** 2026-10-05 23:31:15 UTC
+**Last updated:** 2026-10-06 04:05:39 UTC
